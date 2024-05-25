@@ -1,2 +1,2 @@
-# forge-mixin-example
-An example for using Mixin in Minecraft Forge
+# loading screen
+simple custom loading screen

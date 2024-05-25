@@ -1,8 +1,8 @@
 {
     "compatibilityLevel": "JAVA_8",
-    "package": "com.yourname.modid.mixin",
+    "package": "me.enokitoraisu.loadingscreen.mixin",
     "refmap": "refmap.example.json",
     "mixins": [],
-    "client": ["MixinMinecraft"],
+    "client": ["MixinSplashProgress"],
     "server": []
 }
